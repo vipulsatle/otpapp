@@ -50,7 +50,7 @@ class Cart extends Component {
             <h1>Total Price in Rs :{this.state.total}</h1>
             {/* <Link to='/profile'> */}
             <Button type="button" variant="secondary">
-                   Place Order</Button>
+                   Place Order 2021</Button>
             {/* </Link> */}
       </div>
     )
